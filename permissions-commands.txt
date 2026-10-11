@@ -1,0 +1,5 @@
+# Linux Permission Commands
+ls -l
+chmod 755 file1.txt
+chmod u+x file1.txt
+chmod o-rwx file1.txt

@@ -1,0 +1,7 @@
+# Linux File Commands
+touch file1.txt
+echo "Hello Linux" > file1.txt
+cat file1.txt
+cp file1.txt file2.txt
+mv file2.txt newfile.txt
+ls -l

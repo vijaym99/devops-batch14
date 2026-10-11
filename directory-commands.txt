@@ -1,0 +1,8 @@
+# Linux Directory Commands
+pwd
+mkdir testdir
+cd testdir
+pwd
+cd ..
+ls -l
+rmdir testdir
